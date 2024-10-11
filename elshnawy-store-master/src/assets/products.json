@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods",
+    "description": "Wireless earbuds with superior sound quality.",
+    "price": 500,
+    "images": ["../assets/Products/airpods.png"]
+  },
+  {
+    "id": 2,
+    "name": "Shaver",
+    "description": "High-quality electric shaver for a smooth shave.",
+    "price": 300,
+    "images": ["../assets/Products/shave.png"]
+  },
+  {
+    "id": 3,
+    "name": "Watch 1",
+    "description": "Stylish smartwatch with fitness tracking features.",
+    "price": 1000,
+    "images": ["../assets/Products/watch1.png"]
+  },
+  {
+    "id": 4,
+    "name": "Watch 2",
+    "description": "Elegant watch with classic design.",
+    "price": 750,
+    "images": ["../assets/Products/watch2.png"]
+  }
+]
